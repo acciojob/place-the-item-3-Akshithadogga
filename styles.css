@@ -1,2 +1,37 @@
 
 /* Your CSS Code here. */
+.holder .item.item-1{
+	background-color:blue;
+	width:25%;
+	height:15vh;
+	color:black;
+}
+.holder .item.item-2{
+	background-color:red;
+	width:25%;
+	height:15vh;
+	color:black;
+}
+.holder .item.item-3{
+	background-color:navy;
+	width:25%;
+	height:15vh;
+	color:black;
+}
+.holder .item.item-3{
+	background-color:navy;
+	width:25%;
+	height:15vh;
+	color:black;
+}
+.holder .item.item-3{
+	background-color:navy;
+	width:25%;
+	height:15vh;
+	color:black;
+}
+.holder{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
